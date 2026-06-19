@@ -2,147 +2,147 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250118
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:CCM Beschickung: Kleine Wartung (abschmieren)
-UID:89c7f4be-6c6e-464c-bea7-ff65176febc2@89c7.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250502
 DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Tuchel Kehrbesen: Kleine Wartung (abschmieren)
-UID:4ca40b50-55c2-4204-8640-978d833da52c@4ca4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250118
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Grubber 6m: Kleine Wartung (abschmieren)
-UID:6daf91bf-bdd8-469d-a93c-dedf910b76bc@6daf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250118
-DESCRIPTION:siehe Liste Reparatur\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:IHC 956 XL: Kleine Wartung (abschmieren)
-UID:d39c606f-6770-4695-876c-614dae02cc92@d39c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241116
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Horsch Pronto 3 DC: Kleine Wartung (abschmieren)
-UID:2df69d23-ecd6-4004-b7ba-2c21f145ee91@2df6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250301
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Case Puma CVX 185: Kleine Wartung (abschmieren)
-UID:19f8e120-106d-4625-8988-6a567ca13716@19f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250118
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Greifschaufel: Kleine Wartung (abschmieren)
-UID:47449241-92ce-4f37-afc6-b96c285a098b@4744.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241227
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Seitenmulcher: Große Wartung
-UID:1e3f897b-2d6a-4c0e-a252-20ae79420b63@1e3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250301
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Amazone ZA: Kleine Wartung (abschmieren)
-UID:055906ae-4256-4203-b004-7137286ab5b5@0559.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241207
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:IHC 724: Kleine Wartung (abschmieren)
-UID:27f3263f-56c6-42a2-a049-e3ad7c837b6a@27f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250118
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Stoll FZ: Kleine Wartung (abschmieren)
-UID:d5f20499-38fe-4442-9a5b-7a6377a5e191@d5f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250502
-DESCRIPTION:Schmierstellen Aufhängung Fräse gängig machen\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Emily Melodis: Kleine Wartung (abschmieren)
-UID:46abfb8f-b85e-4f7e-8063-7d59f591a714@46ab.org
+SUMMARY:Leffers 18 Tonner: Kleine Wartung (abschmieren)
+UID:9cfc59b7-7d29-45c8-9976-1e3007925517@9cfc.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250118
 DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
 SUMMARY:Viehwagen: Kleine Wartung (abschmieren)
-UID:4eeb8848-5b4e-462e-91cd-5747dde3d68b@4eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241127
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Seitenmulcher: Kleine Wartung (abschmieren)
-UID:f0b6aab7-5cc1-4a41-9e86-934fa520aa8a@f0b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241130
-DESCRIPTION:Rüttelzähler defekt?\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Mulcher: Kleine Wartung (abschmieren)
-UID:b1ca3290-9b6d-4a71-a842-02064dd4fee9@b1ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Bergmann Miststreuer: Kleine Wartung (abschmieren)
-UID:cbbf794b-4834-4084-b501-0eea0ef1b085@cbbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250502
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Leffers 18 Tonner: Große Wartung
-UID:53cfd5e9-0223-474e-9e56-5ab030387856@53cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250118
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Mulchgrubber: Kleine Wartung (abschmieren)
-UID:4e6a025c-4bc0-4f75-af15-8ad83591ac33@4e6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241116
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Fliegl 8 Tonner: Kleine Wartung (abschmieren)
-UID:97a0cf6e-f79a-4b1e-b107-3478e1d953bc@97a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241130
-DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Bergmann Miststreuer: Große Wartung
-UID:57dbbf98-0501-468d-b68b-b2daca1328c8@57db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241130
-DESCRIPTION:Rüttelzähler defekt?\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Mulcher: Große Wartung
-UID:67cb66a7-5db4-445b-88f0-5b69eb839043@67cb.org
+UID:116db439-d135-47c3-be64-cdd2c8e08aac@116d.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241116
 DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
 SUMMARY:Bagger: Kleine Wartung (abschmieren)
-UID:fa388c8a-5e29-46d0-9a39-a35ff56ccc51@fa38.org
+UID:6e8837a9-4caa-45df-b04a-c6f7dbdff704@6e88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250118
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:CCM Beschickung: Kleine Wartung (abschmieren)
+UID:619a278e-958a-4e1d-8081-9209a2ec4875@619a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Bergmann Miststreuer: Große Wartung
+UID:7b854f58-5186-4fd6-b94f-92b3b95291f0@7b85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250118
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Stoll FZ: Kleine Wartung (abschmieren)
+UID:17675931-cee0-4ec8-8f93-256479f99df3@1767.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250730
 DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
 SUMMARY:Schäffer 8610 T: Kleine Wartung (abschmieren)
-UID:6f0b4880-4867-44fd-a7f1-a725bb90946b@6f0b.org
+UID:51d53314-bfef-4601-99a0-dd917f86150f@51d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241207
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:IHC 724: Kleine Wartung (abschmieren)
+UID:d50ed680-12d3-48c8-b310-6ce647c30c79@d50e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241127
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Seitenmulcher: Kleine Wartung (abschmieren)
+UID:1ffc4671-17f1-484f-8c66-7b9d519323e6@1ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250502
+DESCRIPTION:Schmierstellen Aufhängung Fräse gängig machen\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Emily Melodis: Kleine Wartung (abschmieren)
+UID:16aefbf6-ea6a-4406-9e8b-5927c70fdc9c@16ae.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250502
 DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
-SUMMARY:Leffers 18 Tonner: Kleine Wartung (abschmieren)
-UID:c774fa76-1551-4b88-8161-d34060d5e5ec@c774.org
+SUMMARY:Leffers 18 Tonner: Große Wartung
+UID:e50c8fbc-5ace-47f1-a9db-5c34024923a6@e50c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241227
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Seitenmulcher: Große Wartung
+UID:4cb4e385-cd29-48c0-adf7-54dfb12f847b@4cb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+DESCRIPTION:Rüttelzähler defekt?\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Mulcher: Große Wartung
+UID:a59ace20-2558-493c-94dd-71f2f7ec58d7@a59a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Bergmann Miststreuer: Kleine Wartung (abschmieren)
+UID:7ce87c14-af38-4246-8fc5-f6616e93ad95@7ce8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241116
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Horsch Pronto 3 DC: Kleine Wartung (abschmieren)
+UID:dcb8b5d6-517e-4015-9a70-dcfafb559166@dcb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250502
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Tuchel Kehrbesen: Kleine Wartung (abschmieren)
+UID:f706a6f8-2ede-4775-89c3-75042f4ac6d8@f706.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250301
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Amazone ZA: Kleine Wartung (abschmieren)
+UID:f47763df-ed93-4317-b04d-e6141fcc208e@f477.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250118
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Mulchgrubber: Kleine Wartung (abschmieren)
+UID:2fd89663-508b-4510-bcb7-ba61e12afaeb@2fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+DESCRIPTION:Rüttelzähler defekt?\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Mulcher: Kleine Wartung (abschmieren)
+UID:60a2dc95-a07d-426d-b131-1a2e64e6bb72@60a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241116
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Fliegl 8 Tonner: Kleine Wartung (abschmieren)
+UID:f7093ef7-9e64-4cfa-95fc-1530bb026e72@f709.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250118
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Grubber 6m: Kleine Wartung (abschmieren)
+UID:068d60f6-af64-498c-ba69-e5839e838415@068d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250118
+DESCRIPTION:siehe Liste Reparatur\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:IHC 956 XL: Kleine Wartung (abschmieren)
+UID:97a1d426-6662-4cb6-acf7-fd8140331558@97a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250301
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Case Puma CVX 185: Kleine Wartung (abschmieren)
+UID:e3fa4d16-053e-44b5-814d-bbbd33919d0d@e3fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250118
+DESCRIPTION:\n\nBitte die Wartung nach Abschluss in der Excel-Datei erfassen
+SUMMARY:Greifschaufel: Kleine Wartung (abschmieren)
+UID:5a328366-dc30-4fa6-82ac-eb579c060587@5a32.org
 END:VEVENT
 END:VCALENDAR
